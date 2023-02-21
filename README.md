@@ -10,10 +10,11 @@ and feedback systems.
 The prototype chosen to undergo this process was Tank Wars, as it had great potential and could be improved further, according to feedback from 
 play-testers.
   <p align="center">
+  <br>
+  <br>
     <img src="https://imgur.com/FTGBVb3.png" height="50%" width="40%" alt="Tank Wars"/>
    </p>
 </p> 
-
 
 <h2>Game Synopsis</h2>
 <p>
@@ -35,7 +36,7 @@ opportunity for the player to assess their situation and respond accordingly.
 The latter is a fast-paced 3D tank simulator where the player attempts to take out enemy targets using cannons and other weapons.
   <p align="center">
     <img src="https://imgur.com/LwJkBKu.png" height="30%" width="30%" alt="Superhot"/>
-    <img src="https://imgur.com/uNNth2e.png" height="30%" width="30%" alt="Stickman Tank"/>
+    <img src="https://imgur.com/uNNth2e.png" height="60%" width="30%" alt="Stickman Tank"/>
    </p>
 </p>
 
