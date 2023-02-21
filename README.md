@@ -56,7 +56,6 @@ But because the game was created with a specific intention, it was decided it wa
 </p>
 
 <h3>Spawning of Enemies</h3>
- 
 <p>
 In the initial prototype, enemies spawned randomly at specific positions and would move towards the players while shooting at them. This proved good enough for the prototype but could be further improved upon. This was to be done with the process of dynamic game difficulty balancing in mind. This is the process of automatically changing parameters, scenarios, and behaviors in real time, based on the player’s ability, in order to avoid making the player bored (if the game is to easy) or frustrated (if it is too hard).
 </p>
