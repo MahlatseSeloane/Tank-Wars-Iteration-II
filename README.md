@@ -1,12 +1,24 @@
 <h1>Tank Wars - Iteration II</h1>
+
+https://user-images.githubusercontent.com/56713431/220568717-ed449bd6-7413-4086-9b68-8fa7f1f82236.mp4
+
+<h3>Game Synopsis</h3>
+<p>
+Tank Wars is a top down shooter game where the player plays as a tank and has to fight off an avalanche of enemies in the form of other tanks, that come in phases. The goal of the game is for the player to survive as long as they can.
+
+But unlike other shooter games, where the player uses conventional means to take out enemies, such as shooting projectiles, the core/main mechanic of shooting has been taken out. Instead, the player is given the ability to manipulate time through their movements and use it, together with their spatial awareness, to taking out enemies using their crossfire. As stated, the player manipulates time through movement. When the player is stationary, time progresses at a slow rate whereas when they are moving, time progresses at a normal rate. This was a mechanic added to compensate for the removal of the shooting mechanic and not have the player at a disadvantage.
+</p>
+
+<h2>Assignment</h2>
 <p>
 The given assignment required students to re-implement a previous prototype and improve upon its main mechanics and dynamics. The aim was to 
 teach students the process of iterative design and how a game developer must always be able to take what has been made and make it better.
 Additionally, the re-implementation of the prototype had to contain elements of well thought out level design as well as good communication 
 and feedback systems. 
+</p>
 
 <h2>Prototype Chosen</h2>
-</p>
+<p>
 The prototype chosen to undergo this process was Tank Wars, as it had great potential and could be improved further, according to feedback from 
 play-testers.
   <p align="center">
@@ -16,7 +28,7 @@ play-testers.
    </p>
 </p> 
 
-<h2>Game Synopsis</h2>
+<h3>Game Synopsis</h3>
 <p>
 Tank Wars is a top down shooter game where the player plays as a tank and has to fight off an avalanche of enemies in the form of other tanks,
 that come in phases. But unlike other shooter games, where the player uses conventional means to take out enemies, such as shooting projectiles, 
