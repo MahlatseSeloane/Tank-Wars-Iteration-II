@@ -23,7 +23,6 @@ The prototype chosen to undergo this process was Tank Wars, as it had great pote
 play-testers.
   <p align="center">
   <br>
-  <br>
     <img src="https://imgur.com/FTGBVb3.png" height="50%" width="40%" alt="Tank Wars"/>
    </p>
 </p> 
